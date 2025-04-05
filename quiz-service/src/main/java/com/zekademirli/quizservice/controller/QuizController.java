@@ -1,9 +1,9 @@
-package com.telusko.quizservice.controller;
+package com.zekademirli.quizservice.controller;
 
-import com.telusko.quizservice.model.QuestionWrapper;
-import com.telusko.quizservice.model.QuizDto;
-import com.telusko.quizservice.model.Response;
-import com.telusko.quizservice.service.QuizService;
+import com.zekademirli.quizservice.model.QuestionWrapper;
+import com.zekademirli.quizservice.model.QuizDto;
+import com.zekademirli.quizservice.model.Response;
+import com.zekademirli.quizservice.service.QuizService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

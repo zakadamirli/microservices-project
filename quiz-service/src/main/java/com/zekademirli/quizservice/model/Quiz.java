@@ -1,4 +1,4 @@
-package com.telusko.quizservice.model;
+package com.zekademirli.quizservice.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;

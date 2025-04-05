@@ -1,10 +1,10 @@
-package com.telusko.quizservice.service;
+package com.zekademirli.quizservice.service;
 
-import com.telusko.quizservice.dao.QuizDao;
-import com.telusko.quizservice.feign.QuizInterface;
-import com.telusko.quizservice.model.QuestionWrapper;
-import com.telusko.quizservice.model.Quiz;
-import com.telusko.quizservice.model.Response;
+import com.zekademirli.quizservice.dao.QuizDao;
+import com.zekademirli.quizservice.feign.QuizInterface;
+import com.zekademirli.quizservice.model.QuestionWrapper;
+import com.zekademirli.quizservice.model.Quiz;
+import com.zekademirli.quizservice.model.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
