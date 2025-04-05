@@ -1,8 +1,5 @@
 package com.zekademirli.quizservice.model;
 
-import lombok.Data;
-import lombok.RequiredArgsConstructor;
-
 
 public class Response {
     private Integer id;
