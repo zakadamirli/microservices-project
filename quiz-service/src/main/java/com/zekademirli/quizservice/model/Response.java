@@ -1,4 +1,4 @@
-package com.telusko.quizservice.model;
+package com.zekademirli.quizservice.model;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
