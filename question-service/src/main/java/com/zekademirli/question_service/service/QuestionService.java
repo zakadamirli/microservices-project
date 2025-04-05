@@ -1,9 +1,9 @@
-package com.telusko.question_service.service;
+package com.zekademirli.question_service.service;
 
-import com.telusko.question_service.dao.QuestionDao;
-import com.telusko.question_service.model.Question;
-import com.telusko.question_service.model.QuestionWrapper;
-import com.telusko.question_service.model.Response;
+import com.zekademirli.question_service.dao.QuestionDao;
+import com.zekademirli.question_service.model.Question;
+import com.zekademirli.question_service.model.QuestionWrapper;
+import com.zekademirli.question_service.model.Response;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;

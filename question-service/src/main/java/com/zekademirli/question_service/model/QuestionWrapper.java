@@ -1,4 +1,4 @@
-package com.telusko.question_service.model;
+package com.zekademirli.question_service.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

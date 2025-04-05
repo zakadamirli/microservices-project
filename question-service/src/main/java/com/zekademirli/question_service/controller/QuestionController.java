@@ -1,10 +1,10 @@
-package com.telusko.question_service.controller;
+package com.zekademirli.question_service.controller;
 
 
-import com.telusko.question_service.model.Question;
-import com.telusko.question_service.model.QuestionWrapper;
-import com.telusko.question_service.model.Response;
-import com.telusko.question_service.service.QuestionService;
+import com.zekademirli.question_service.model.Question;
+import com.zekademirli.question_service.model.QuestionWrapper;
+import com.zekademirli.question_service.model.Response;
+import com.zekademirli.question_service.service.QuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 import org.springframework.http.ResponseEntity;
