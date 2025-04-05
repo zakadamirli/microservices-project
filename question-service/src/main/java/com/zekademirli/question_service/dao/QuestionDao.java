@@ -1,6 +1,6 @@
-package com.telusko.question_service.dao;
+package com.zekademirli.question_service.dao;
 
-import com.telusko.question_service.model.Question;
+import com.zekademirli.question_service.model.Question;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
